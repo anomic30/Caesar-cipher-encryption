@@ -1,4 +1,8 @@
-#Simple program to demonstrate Caesar cipher encryption technique using Python
+#####################################################################################
+##  Simple program to demonstrate Caesar cipher encryption technique using Python  ##
+##  Author: Anom Chakravorty | Github: anomic30                                    ##
+#####################################################################################
+
 import string
 def encrypt(text,shift):
     '''
